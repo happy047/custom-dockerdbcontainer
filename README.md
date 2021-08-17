@@ -3,7 +3,11 @@ This repository focuses on explanation for creating a custom db docker of a part
 
 ## Table of contents
 
+  * [Goal](#goal)
   * [Tools and Prerequisites](#tools-and-prerequisites)
+  * [Github and GHCR Setup](#github-and-ghcr-setup)
+  * [Local environment setup](#local-environment-setup)
+  * [Custom DB Docker image building](#custom-db-docker-image-building)
 
 
 ### Goal
