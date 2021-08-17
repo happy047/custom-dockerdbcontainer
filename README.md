@@ -90,6 +90,6 @@ Just replace your database service code with the following code in your lando fi
   database:
     type: mariadb
     overrides:
-      image: ghcr.io/happy047/dlatest
+      image: ghcr.io/username/customDB
 ```
 Now, each time any user with sufficient permission clones the repository and run lando start command, it will automatically pull the custom db image you uploaded.
